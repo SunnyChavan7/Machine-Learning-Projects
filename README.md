@@ -1,2 +1,2 @@
-# YBI-dataset
-YBI Foundation Internship Dataset
+# Machine-Learning_Projects
+YBI Foundation ML Projects
